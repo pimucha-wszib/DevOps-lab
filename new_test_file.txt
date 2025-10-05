@@ -1,0 +1,1 @@
+stworzyć nowy branch, zmienić coś w kodzie i wystawić pull requesta
